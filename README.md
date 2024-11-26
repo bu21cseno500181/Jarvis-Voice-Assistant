@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/bu21csem0500301/jarvis-voice-assistant.git
+   git clone https://github.com/bu21cseno500181/jarvis-voice-assistant.git
    cd jarvis-voice-assistant
    ```
 
