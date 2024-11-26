@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` file for your GitHub repository:
-
----
-
 # Jarvis - Voice Assistant
 
 A simple Python-based voice assistant that can recognize voice commands and perform tasks like opening applications or websites. Inspired by the AI assistant Jarvis from the Iron Man series, this assistant uses speech recognition and text-to-speech technologies to interact with users.
@@ -79,7 +75,3 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 - The `speech_recognition` and `pyttsx3` libraries for enabling voice interaction.
 - Inspiration from the Iron Man series for the Jarvis concept.
-
----
-
-This `README.md` file ensures users can understand, set up, and customize your project easily. Let me know if you'd like additional sections!
